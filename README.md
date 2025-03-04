@@ -1,1 +1,2 @@
-# projeto_bi_covid19
+# Projeto de Análise de Dados sobre os casos de Covid-19 no Brasil
+
