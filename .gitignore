@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+#csv grande
+dados_mergeados_covid19_2020_2025.csv
